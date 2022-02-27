@@ -1,0 +1,14 @@
+.header_wrapper {
+    background-color: #333336;
+}
+
+.header {
+    grid-area: h;
+
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header img {
+    height: 80px;
+}

@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+}
+
+.item {
+    display: block;
+    padding: 10px;
+
+    font-size: 18px;
+
+    border-radius: 5px;
+
+    text-decoration: none;
+    color: #777777;
+}
+
+.nav a:hover {
+    background-color: #333336;
+}
